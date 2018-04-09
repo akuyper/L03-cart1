@@ -30,10 +30,4 @@ Work through the entire lab in Section 8.3 *Lab: Decision Trees* (pages: 323 - 3
 
 Please note that *"attempting to utilize `tidyvere` techniques when possible"* entails that students make an **honest** effort to implement these techniques. Copying, pasting, running, and submitting the code provided in the book does not constitute an **honest** effort. 
 
-<<<<<<< HEAD
 While it might feel redundant to re-create code in a slightly different format, it is an extremely useful skill to practice. It is only really redundant because base R code is supplied. The base R code provides a good starting point for us to build upon and improve it by coverting it to a more flexible and organized format. Students should also consider adding their own notes and commentary to make this lab into a useful resource for the future. 
-
-<br><br>
-=======
-While it might feel redundant to re-create code in a slightly different format, it is an extremely useful skill to practice. It is only really redundant because base R code is supplied. The base R code provides a good starting point for us to build upon and improve it by coverting it to a more flexible and organized format. Students should also consider adding their own notes and commentary to make this lab into a useful resource for the future. 
->>>>>>> a9cd655ac41b6abd18fc696d8b6fc4fe83e1508e
